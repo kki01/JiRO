@@ -19,10 +19,10 @@ st.set_page_config(
 
 ### 이미지 불러오기 ###
 
-introduction_image = Image.open("C:\\Users\\lg\\Desktop\\PythonWorkspace\\test\\pages\\title_image.png")
-logo = Image.open("C:\\Users\\lg\\Desktop\\PythonWorkspace\\test\\pages\\JiRO.png")
-dec_image1 = Image.open("C:\\Users\\lg\\Desktop\\PythonWorkspace\\test\\pages\\dec_image1.png")
-dec_image2 = Image.open("C:\\Users\\lg\Desktop\\PythonWorkspace\\test\\pages\\dec_image2.png")
+introduction_image = Image.open("title_image.png")
+logo = Image.open("JiRO.png")
+dec_image1 = Image.open("dec_image1.png")
+dec_image2 = Image.open("dec_image2.png")
 
 ###########################################################################################################
 # sidebar
